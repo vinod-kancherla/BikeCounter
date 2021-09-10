@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#data
+Fremont_bridge.csv
+
+#data
+Traffic_Flow.csv
